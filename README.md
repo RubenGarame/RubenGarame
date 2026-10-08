@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Rubén García Ameijidez
+## Alumno de Bases de Datos
+### Me encantan las Bases de Datos
+
+Soy **alumno** del *colegio* ***San Viator***
+
+**Estamos aprendiendo:**
+1. Programación
+2. Bases de datos
+3. Entornos de desarrollo
+
+**También estamos estudiando**
+- Markdown
+- Diagramas E/R
+- Bucles
+
+[Web del colegio](https://sanviatorvalladolid.com)
+
+
+
