@@ -33,5 +33,17 @@ Soy **alumno** del *colegio* ***San Viator***
 
 [Web del colegio](https://sanviatorvalladolid.com)
 
+Instrucciones para crear un fichero:
+1. Sitúate en el directorio que quieras con el comando `cd <directorio>`
+2. Ejecuta el comando `touch  <fichero>`
+
+Separadores
+
+---
+Otra sección
+
+---
+Tercera sección
+
 
 
